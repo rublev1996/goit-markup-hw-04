@@ -44,6 +44,7 @@ ul{
     /*main*/
     /*hdr*/
     --header-link-default:#212121;
+    --header-contact-text-default:#757575;
     --header-link-active:#2196F3;
     --logo-first-verb-color:#2196F3;
     --logo-second-verb-color: #200505;
